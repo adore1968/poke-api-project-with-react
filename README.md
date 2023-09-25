@@ -7,3 +7,5 @@ Topics to talk about:
 - Filters with checkbox
 - Search filter
 - useLocation, Navigate
+  
+![poke-api](https://github.com/adore1968/poke-api-project-with-react/assets/101434158/8a00ec8b-383f-4aaa-b763-76d2d1939af6)
